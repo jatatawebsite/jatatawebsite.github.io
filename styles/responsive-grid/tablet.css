@@ -1,0 +1,9 @@
+#wrapper {
+	width: 684px;
+}
+
+[class*="column-wrapper"], [class*="column-content"] {
+	float: none;
+	margin-right: 0;
+	width: auto;
+}
